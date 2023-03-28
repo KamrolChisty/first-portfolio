@@ -1,5 +1,5 @@
 body{
-    font-family: 'Fasthand', cursive;
+    font-family: 'Alkatra', cursive;
     margin: 0%;
 }
 h1{
@@ -21,8 +21,9 @@ section{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     color: white;
-    font-weight: 600;
-    padding: 10px 40px;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 8px 25px;
     border-radius: 10px;
 }
 .top-banner{
