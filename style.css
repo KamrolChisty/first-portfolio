@@ -9,10 +9,12 @@ h1{
     color: orange;
 }
 section{
-    display:flex}
+    display:flex;
+    margin-bottom: 150px;
+        }
 .half-wide{
     width: 50%;
-    padding: 3%;
+    padding-left: 3%;
 }
 .half-wide img{
     width: 80%;
@@ -29,4 +31,12 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream{
+    color: sienna+;
+}
+.bottom-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
